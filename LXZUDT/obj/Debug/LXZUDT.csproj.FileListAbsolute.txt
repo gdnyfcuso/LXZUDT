@@ -1,0 +1,8 @@
+E:\code\nja-hardware-tenfinger-greenbit\指纹仪资料\指纹仪目前使用汇总资料\深圳边检梅沙对接指纹调用案例\LXZUDT\bin\Debug\LXZUDT.dll
+E:\code\nja-hardware-tenfinger-greenbit\指纹仪资料\指纹仪目前使用汇总资料\深圳边检梅沙对接指纹调用案例\LXZUDT\bin\Debug\LXZUDT.pdb
+E:\code\nja-hardware-tenfinger-greenbit\指纹仪资料\指纹仪目前使用汇总资料\深圳边检梅沙对接指纹调用案例\LXZUDT\obj\Debug\LXZUDT.dll
+E:\code\nja-hardware-tenfinger-greenbit\指纹仪资料\指纹仪目前使用汇总资料\深圳边检梅沙对接指纹调用案例\LXZUDT\obj\Debug\LXZUDT.pdb
+E:\git\c#\netWorkTest\LXZUDT\bin\Debug\LXZUDT.dll
+E:\git\c#\netWorkTest\LXZUDT\bin\Debug\LXZUDT.pdb
+E:\git\c#\netWorkTest\LXZUDT\obj\Debug\LXZUDT.dll
+E:\git\c#\netWorkTest\LXZUDT\obj\Debug\LXZUDT.pdb
